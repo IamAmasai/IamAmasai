@@ -8,10 +8,10 @@ Ansai builds infrastructure for the agent-native economy in Africa: verified ide
 
 ---
 
-![Melchizedek's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamAmasai&show_icons=true&theme=graywhite)
+![Melchizedek's GitHub stats](https://github-stats-extended.vercel.app/api?username=IamAmasai&show_icons=true&theme=graywhite)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAmasai&layout=compact&theme=graywhite)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IamAmasai&layout=compact&theme=graywhite)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=IamAmasai)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=IamAmasai&theme=flat)
+![Trophies](https://trophy.ryglcloud.net/?username=IamAmasai&theme=flat)
